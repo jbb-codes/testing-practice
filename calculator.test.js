@@ -8,7 +8,7 @@ test("calc subtract", () => {
   expect(calculator.subtract(1, 2)).toBe(-1);
 });
 
-test("calc multiply", () => {
+test("calc multiply ", () => {
   expect(calculator.multiply(1, 2)).toBe(2);
 });
 
